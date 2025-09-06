@@ -1,3 +1,0 @@
-C:/Users/Deni/CLionProjects/lab-26.02/cmake-build-debug/CMakeFiles/lab_26_02.dir
-C:/Users/Deni/CLionProjects/lab-26.02/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Deni/CLionProjects/lab-26.02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
