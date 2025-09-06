@@ -1,3 +1,0 @@
-C:/Users/Deni/CLionProjects/emil/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ucuy04/CMakeFiles/cmTC_8026e.dir
-C:/Users/Deni/CLionProjects/emil/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ucuy04/CMakeFiles/edit_cache.dir
-C:/Users/Deni/CLionProjects/emil/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-ucuy04/CMakeFiles/rebuild_cache.dir
