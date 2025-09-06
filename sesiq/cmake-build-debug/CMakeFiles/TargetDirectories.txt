@@ -1,0 +1,3 @@
+C:/Users/Deni/CLionProjects/sesiq/cmake-build-debug/CMakeFiles/sesiq.dir
+C:/Users/Deni/CLionProjects/sesiq/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Deni/CLionProjects/sesiq/cmake-build-debug/CMakeFiles/rebuild_cache.dir

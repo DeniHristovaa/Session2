@@ -1,0 +1,3 @@
+C:/Users/Deni/CLionProjects/treatment/cmake-build-debug/CMakeFiles/treatment.dir
+C:/Users/Deni/CLionProjects/treatment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Deni/CLionProjects/treatment/cmake-build-debug/CMakeFiles/rebuild_cache.dir

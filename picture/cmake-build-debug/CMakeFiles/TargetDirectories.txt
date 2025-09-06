@@ -1,0 +1,3 @@
+C:/Users/Deni/CLionProjects/picture/cmake-build-debug/CMakeFiles/picture.dir
+C:/Users/Deni/CLionProjects/picture/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Deni/CLionProjects/picture/cmake-build-debug/CMakeFiles/rebuild_cache.dir
